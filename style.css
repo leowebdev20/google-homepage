@@ -1,0 +1,36 @@
+* {
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+img {
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 160px;
+    width: 460px;
+    display: block;margin-left: auto;margin-right: auto;width: 35%;
+}
+button {
+    padding: 10px;
+    width: 160px;
+    height: 37px;
+    margin-top: 50px;
+}
+.search {
+    margin-left: 830px;
+}
+footer {
+
+    width: 80px;
+    background-color: rgb(233, 233, 233);
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+
+}
+input {
+    padding: 10px;
+    width: 560px;
+    height: 37px;
+    margin-top: 50px;
+   display: block;margin-left: auto;margin-right: auto;
+}
